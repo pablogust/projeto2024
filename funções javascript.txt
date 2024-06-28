@@ -9,3 +9,7 @@ funções Javacript
  delimita o inicio e fim da função com o simbolo da chave {}
 5° passo:
  entre as chaves sera escrito o código da programação a função. e caso necesario se usado a palvra-chave return para retorno dos valores necessarios.
+
+criar uma funçaao ao er chamaa  ecreva o nome que e chamou 
+criar uma funçao que retorne a oma e 3 numero paao por prametro
+escreva uma ffunçao que ecreva o reultao a eguinte equaçao x=a+b*c
