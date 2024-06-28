@@ -1,0 +1,11 @@
+funções Javacript
+1° passo:
+ escreva a palavra chave "function"
+2° passo:
+ a um nome a função
+3° passo:
+ escreva parenteses (), e dentro deles os parametros necessarios para a função.
+4° passo:
+ delimita o inicio e fim da função com o simbolo da chave {}
+5° passo:
+ entre as chaves sera escrito o código da programação a função. e caso necesario se usado a palvra-chave return para retorno dos valores necessarios.
